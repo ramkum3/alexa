@@ -1,0 +1,18 @@
+./build-3rdparty-libs.sh /auto/spvss-evo-bin1/Published/code/compilers/MSTARK6/linaro_aarch64_linux-2014.09_r20170413 aarch64-linux-gnu release
+
+
+ls -al   /ws/ramkum3/myproject/build/../third_party_lib/Alexa/lib/libcurl.so
+
+
+c-ares-1.16.0
+curl-7.52.1
+glib-2.54.3
+gst-plugins-bad-1.12.4
+gst-plugins-base-1.12.4
+gst-plugins-good-1.12.4
+gstreamer-1.12.4
+libffi-3.2.1
+nghttp2-1.40.0
+openssl-1.1.1e
+sqlite-autoconf-3220000
+zlib-1.2.8
